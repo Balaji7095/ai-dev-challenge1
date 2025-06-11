@@ -13,6 +13,13 @@ This is an intelligent end-to-end AI application that transforms simple text pro
 - 🖥️ GUI with Streamlit
 - 🐳 Docker support
 
+## 🖼️ Preview
+
+Here’s what the Streamlit interface looks like:
+
+![App Demo](assets/screenshot.png)
+
+
 ---
 
 ## 🔄 Workflow
